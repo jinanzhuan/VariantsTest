@@ -1,0 +1,2 @@
+# VariantsTest
+test gradle variants
